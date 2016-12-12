@@ -1,0 +1,30 @@
+[Added Associations]
+application/octet-stream=clion-eap.desktop;
+x-scheme-handler/mailto=userapp-Thunderbird-EDKIQY.desktop;
+message/rfc822=userapp-Thunderbird-EDKIQY.desktop;
+x-scheme-handler/news=userapp-Thunderbird-EDKIQY.desktop;
+x-scheme-handler/snews=userapp-Thunderbird-EDKIQY.desktop;
+x-scheme-handler/nntp=userapp-Thunderbird-EDKIQY.desktop;
+x-scheme-handler/feed=userapp-Thunderbird-EDKIQY.desktop;
+application/rss+xml=userapp-Thunderbird-EDKIQY.desktop;
+application/x-extension-rss=userapp-Thunderbird-EDKIQY.desktop;
+text/x-c++src=atom.desktop;clion-eap.desktop;
+text/x-haskell=atom.desktop;clion-eap.desktop;
+application/vnd.ms-publisher=org.gnome.gedit.desktop;
+video/mp4=vlc.desktop;org.gnome.Totem.desktop;
+application/x-object=org.gnome.gedit.desktop;
+text/plain=atom.desktop;
+application/x-mobipocket-ebook=org.gnome.FileRoller.desktop;
+application/xml=atom.desktop;
+application/x-ms-dos-executable=wine.desktop;atom.desktop;
+application/x-aportisdoc=atom.desktop;
+
+[Default Applications]
+x-scheme-handler/mailto=userapp-Thunderbird-EDKIQY.desktop
+message/rfc822=userapp-Thunderbird-EDKIQY.desktop
+x-scheme-handler/news=userapp-Thunderbird-EDKIQY.desktop
+x-scheme-handler/snews=userapp-Thunderbird-EDKIQY.desktop
+x-scheme-handler/nntp=userapp-Thunderbird-EDKIQY.desktop
+x-scheme-handler/feed=userapp-Thunderbird-EDKIQY.desktop
+application/rss+xml=userapp-Thunderbird-EDKIQY.desktop
+application/x-extension-rss=userapp-Thunderbird-EDKIQY.desktop
